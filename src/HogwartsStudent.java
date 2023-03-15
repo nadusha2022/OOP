@@ -61,3 +61,4 @@ public abstract class HogwartsStudent {
         return String.format("Студент %s;сила магии: %d;сила трансгрессии: %d", name, magic, transgression);
     }
 }
+
