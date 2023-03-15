@@ -64,3 +64,4 @@ public class SlytherinStudent extends HogwartsStudent {
                 super.toString(), cunning, determinatin, ambition, ingenuity, thirstForPower);
     }
 }
+

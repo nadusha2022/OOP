@@ -58,3 +58,4 @@ public class GriffindorStudent extends HogwartsStudent {
         return String.format("%s; благородство: %d;честь: %d;храбрость: %d", super.toString(), nobility, honar, bravery);
     }
 }
+
