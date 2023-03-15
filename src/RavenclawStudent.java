@@ -70,4 +70,3 @@ public class RavenclawStudent extends HogwartsStudent {
                 super.toString(), cleverness, wisdom, wit, creativity);
     }
 }
-
